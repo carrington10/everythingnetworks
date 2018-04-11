@@ -1,0 +1,52 @@
+Diffrent net work protocalls to know
+
+UDP : user datagram protocalls- connnectionees protocol
+only a way type
+work under the transport layer of the model
+
+SNMP: simple network management protocol
+collects and gathers information in your infostructure, and send it to the physical device
+Port:161,162
+
+NTP: network time protocol
+time synconozation for devices
+Port:123
+
+SIP: session initiation protocol
+has to do with communication with voice and video from cpu a and b
+Port: 5060,5061(transport layer security):secure
+
+RTSP: real time streaming protocol
+for streaming media
+Port:554
+
+LDAP(active directory): lightweight directory access protocol
+uses a network to gather information to put into a network  Active directory
+port: 389
+
+RDP: remote desktop protocol (uses windows)
+use computer to connect to a server
+port: 3389
+
+Telnet
+another way to connect to devices, gui
+Port:23
+
+(big one after UDP)
+TCP: tranport control protocall:-connection oriented d
+3 way handshake
+
+FTP: File transfer protocol
+transfer files, folders, and document data from a to b ask for user auth
+Port: 20,21
+
+TFTP: trivial file transport protocol
+same ass ftp but dont ask for user auth
+Port: 69
+
+STFP: secure file transport protocol
+encripts information sent by the user
+Port:22
+
+SSH:
+port:22
